@@ -8,6 +8,6 @@ This is a Book Review Analyzer Website that does sentiment analysis of the revie
 - Pycharm
 
 ## Output
-![Screenshot 2023-10-20 225147](https://github.com/ellow0rld/Book-Review-Analysis/assets/116413038/01b24444-daa4-4c46-827b-f5f86c01d724)
-![Screenshot 2023-10-20 225229](https://github.com/ellow0rld/Book-Review-Analysis/assets/116413038/2d123786-6436-41f6-bd9e-e92467609550)
-![Screenshot 2023-10-20 225727](https://github.com/ellow0rld/Book-Review-Analysis/assets/116413038/5f7f2fe6-dcc3-4d98-b6f3-a5a759d93207)
+![Screenshot 2023-10-20 225147](https://github.com/ellow0rld/Book-Review-Analysis/assets/116413038/b144699f-c00f-45c5-a9a7-5af81d2267c8)
+![Screenshot 2023-10-20 225229](https://github.com/ellow0rld/Book-Review-Analysis/assets/116413038/c51fafef-a47e-4c65-b2d6-22ee116b81d4)
+![Screenshot 2023-10-20 225727](https://github.com/ellow0rld/Book-Review-Analysis/assets/116413038/360cac04-0245-4c08-934b-cd443adb48a1)
