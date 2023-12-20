@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Review</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='C1.css') }}">
+
+</head>
+<body>
+<center>
+<h1> {{ name }}</h1>
+<h2> {{ author }} </h2>
+<img src="{{ url }}" alt="Book Image">
+        </center>
+<div align = "center">
+    <br>
+<h1>Review Analysis</h1>
+    <p>Positive Score: {{ positive }}%</p>
+    <p>Negative Score: {{ negative }}%</p>
+    <p>Neutral Score: {{ neutral }}%</p>
+</div>
+</body>
+</html>
+
