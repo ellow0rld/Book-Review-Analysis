@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='C.css') }}">
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+<br><br><br><br><br><br>
+<centeR class="welcome">
+    <div class="quo">
+    <p> "Books are the plane, and the train, and the road. </p>
+    <p> They are the destination and the journey. They are home."</p>
+    <p>    ~ Anna Quindlen </p>
+</div>
+<form class="form" method="GET" action="/main">
+    LibraryThing URL <input type="text" name="url"><br><br><br>
+		<input class="button" type="submit" value="Submit">
+</form>
+</centeR>
+</body>
+</html>
+
