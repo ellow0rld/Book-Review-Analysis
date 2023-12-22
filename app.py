@@ -39,7 +39,7 @@ def process(page_url):
         temp.append(review.text)
         count += 1
         analyzer = SentimentIntensityAnalyzer()
-        sentiment_scores = analyzer.polarity_scores(review.text)                                           # Sentimente Analyzer 
+        sentiment_scores = analyzer.polarity_scores(review.text)                                           # Sentiment Analyzer 
         pos += sentiment_scores['pos']
         neg += sentiment_scores['neg']
         neu += sentiment_scores['neu']
