@@ -1,8 +1,7 @@
 # Book Review Analyzer
-This is a Book Review Analyzer Website that does sentiment analysis of the reviews web scraped from LibraryThing. This can be replicated with other websites too, ex: GoodReads, you just have to change the HTML elements.
+This is a Book Review Analyzer Website that does sentiment analysis of the reviews.
 
 ## Requirements
-- MongoDB
 - Flask
 - NLTK - Sentiment Analyser
 - Pycharm
